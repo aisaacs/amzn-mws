@@ -1,0 +1,29 @@
+{
+  "name": "amzn-mws",
+  "version": "0.0.1",
+  "description": "amazon MWS api client",
+  "main": "./lib/mws.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aisaacs",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^1.4.0",
+    "xml2js": "^0.4.16"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aisaacs/amzn-mws.git"
+  },
+  "keywords": [
+    "amazon",
+    "mws",
+    "api"
+  ],
+  "bugs": {
+    "url": "https://github.com/aisaacs/amzn-mws/issues"
+  },
+  "homepage": "https://github.com/aisaacs/amzn-mws#readme"
+}
