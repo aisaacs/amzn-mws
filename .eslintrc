@@ -1,7 +1,7 @@
 {
   "ecmaFeatures": {
     "jsx": false,
-    "arrowFunctions": false,
+    "arrowFunctions": true,
     "blockBindings": false,
     "generators": false
   },
