@@ -4,9 +4,9 @@ Client for the Amazon Marketplace Web Services API. Read more [here](https://dev
 
 # Supported endpoints
 
-ListOrders - [docs](http://docs.developer.amazonservices.com/en_US/orders-2013-09-01/Orders_ListOrders.html)
-ListOrdersByNextToken - [docs](http://docs.developer.amazonservices.com/en_US/orders-2013-09-01/Orders_ListOrdersByNextToken.html)
-ListOrderItems - [docs](http://docs.developer.amazonservices.com/en_US/orders-2013-09-01/Orders_ListOrderItems.html)
+ListOrders - [docs](http://docs.developer.amazonservices.com/en_US/orders-2013-09-01/Orders_ListOrders.html)  
+ListOrdersByNextToken - [docs](http://docs.developer.amazonservices.com/en_US/orders-2013-09-01/Orders_ListOrdersByNextToken.html)  
+ListOrderItems - [docs](http://docs.developer.amazonservices.com/en_US/orders-2013-09-01/Orders_ListOrderItems.html)  
 
 These are limited to the endpoints I have a use for. If you need to use other API calls, please consider contributing. It is extremely simple to add support for other endpoints. 
 
